@@ -35,12 +35,11 @@ It improves **human–computer interaction** and is especially useful in touchle
 
 ## ⚙️ Installation & Setup
 
-### 1️⃣ Clone the Repository
-```bash
+ 1️⃣ Clone the Repository```bash
 git clone https://github.com/Tharun-J10/AI-VIRTUAL-MOUSE.git
 cd AI-VIRTUAL-MOUSE
 
-2️⃣ Install Required Libraries
+###2️⃣ Install Required Libraries
 pip install opencv-python mediapipe pyautogui numpy
 
 3️⃣ Run the Project
